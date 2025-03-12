@@ -1,5 +1,5 @@
-# Infinite Poll : Real-time Polling Application with Chat Feature
-InfinitePoll is a real-time polling application that seamlessly integrates a voting system with a chat feature, allowing users to engage in interactive discussions while participating in polls. Built using WebSockets and Node.js, InfinitePoll delivers a dynamic and engaging user experience.
+#  Poll : Real-time Polling Application
+Poll is a real-time polling application that seamlessly integrates a voting system with a chat feature, allowing users to engage in interactive discussions while participating in polls. Built using WebSockets and Node.js, InfinitePoll delivers a dynamic and engaging user experience.
 
 ### Features
 **Real-Time Polling**: Enable users to vote on various topics or options with real-time updates on the poll results.
@@ -16,7 +16,8 @@ InfinitePoll is a real-time polling application that seamlessly integrates a vot
 - Socket.IO
 - HTML/CSS
 - JavaScript
-
+## Install process
+ clone repo and npm install
 ### Usage
 - Upon accessing the application, users can participate in active polls by selecting their preferred options.
 - Users can engage in real-time conversations with other participants using the chat feature.
